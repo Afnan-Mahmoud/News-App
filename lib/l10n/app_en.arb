@@ -1,0 +1,13 @@
+{
+ "business": "Business",
+  "entertainment": "Entertainments",
+  "general": "General",
+  "health":"Health",
+  "science":"Science",
+  "sports":"Sports",
+  "technology":"Technology",
+  "news": "News",
+  "setting": "Setting",
+  "category":"Category",
+  "lang":"Language"
+}

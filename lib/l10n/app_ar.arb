@@ -1,0 +1,13 @@
+{
+  "business": "اداره الاعمال",
+  "entertainment": "الترفيه",
+  "general": "عام",
+  "health":"الصحه",
+  "science":"العلوم",
+  "sports":"الرياضه",
+  "technology":"التكنولوجيا",
+  "news": "الاخبار",
+  "setting": "الاعدادات",
+  "category":"الفئات",
+  "lang":"اللغه"
+}
